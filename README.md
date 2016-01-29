@@ -1,7 +1,7 @@
 # Getting and Cleaning Data - Course Project
 
 This is the course project for Coursera-Getting and Cleaning Data course.
-The R script 'run_analysis.R' performs the following tasks :-
+The R script `run_analysis.R` performs the following tasks :-
 
 1. Download the compressed file
 2. Uncompresses the file
